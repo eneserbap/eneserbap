@@ -19,15 +19,6 @@ My goal is to continuously improve myself and create projects that provide real 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eneserbap&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eneserbap&layout=compact" />
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 * 🌐 www.eneserbap.vercel.app
