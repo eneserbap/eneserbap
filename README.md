@@ -2,7 +2,6 @@
 
 🎓 Software Engineering Student
 💻 Focused on JavaScript & Frontend Development
-🥋 Discipline-driven learner with an MMA background
 
 ---
 
@@ -14,15 +13,17 @@ My goal is to continuously improve myself and create projects that provide real 
 
 ---
 
-## 🛠 Skills
+## 🛠 Tech Stack
 
-* JavaScript
-* HTML
-* CSS
-* Git
-* GitHub
-* DOM
-* Problem Solving
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+</p>
 
 ---
 
@@ -32,33 +33,6 @@ My goal is to continuously improve myself and create projects that provide real 
   <img src="https://github-readme-stats.vercel.app/api?username=eneserbap&show_icons=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eneserbap&layout=compact" />
 </p>
-
----
-
-## 🚀 Featured Projects
-
-### 📘 JavaScript Lessons
-
-A repository created while learning JavaScript from scratch.
-It includes examples, exercises, and small projects built with Vanilla JavaScript.
-
-### 🎨 DrawIt
-
-A modern canvas drawing application built with React and RoughJS.
-Includes features like keyboard shortcuts, text tools, and project save/load.
-
-### 🌤 Weather App
-
-A simple weather application using API integration and asynchronous JavaScript.
-
----
-
-## 📚 Currently Learning
-
-* Advanced JavaScript (ES6+)
-* Asynchronous Programming
-* Clean Code Principles
-* Basic Algorithms and Data Structures
 
 ---
 
