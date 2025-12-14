@@ -38,5 +38,5 @@ My goal is to continuously improve myself and create projects that provide real 
 
 ## 🤝 Connect With Me
 
-* 💼 LinkedIn: (add link)
-* 📧 Feel free to reach out for collaboration or feedback
+* 🌐 www.eneserbap.vercel.app
+* 💼 LinkedIn: ([add link](https://www.linkedin.com/in/eneserbap/))
