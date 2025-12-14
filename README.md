@@ -1,10 +1,6 @@
 ## Hi 👋 I'm Enes
 
-🎓 Software Engineering Student
-💻 Focused on JavaScript & Frontend Development
-
-I am a Software Engineering student who is passionate about technology and problem solving.
-I enjoy learning new things and turning my ideas into real projects.
+🎓 I am a **Software Engineering student** who is passionate about technology and problem solving.I enjoy learning new things and turning my ideas into real **projects**.
 My goal is to continuously improve myself and create projects that provide real value.
 
 ---
@@ -35,4 +31,4 @@ My goal is to continuously improve myself and create projects that provide real 
 ## 🤝 Connect With Me
 
 * 🌐 www.eneserbap.vercel.app
-* 💼 LinkedIn: ([add link](https://www.linkedin.com/in/eneserbap/))
+* 💼 LinkedIn: ([click](https://www.linkedin.com/in/eneserbap/))
