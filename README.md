@@ -19,5 +19,5 @@ My goal is to continuously improve myself and create projects that provide real 
 
 ## 🤝 Connect With Me
 
-* 🌐 ([Website](nes.monolithstudios.dev)
-* 💼 ([LinkedIn](https://www.linkedin.com/in/eneserbap/))
+* 🌐 [Website](nes.monolithstudios.dev)
+* 💼 [LinkedIn](https://www.linkedin.com/in/eneserbap/)
