@@ -1,16 +1,14 @@
-<h1 align="center">Merhaba, ben Enes 👋</h1>
+<h1 align="center">Hello, I'm Enes 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Fullstack+Developer;Java+%2B+Next.js+Enthusiast;Building+real-world+projects+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  🎓 <b>Yazılım Mühendisliği</b> öğrencisiyim, teknolojiye ve problem çözmeye tutkuyla bağlıyım.<br/>
-  Yeni şeyler öğrenmeyi ve fikirlerimi gerçek <b>projelere</b> dönüştürmeyi seviyorum.<br/>
-  Amacım kendimi sürekli geliştirmek ve gerçek değer sunan projeler üretmek.
+  🎓 <b>Software Engineering</b> student passionate about technology and problem-solving.<br/>
+  I love learning new things and turning my ideas into real <b>projects</b>.<br/>
+  My goal is to continuously improve myself and build projects that create real value.
 </p>
-
-
 
 ---
 
@@ -35,7 +33,7 @@
 
 ---
 
-### 📊 GitHub İstatistikleri
+### 📊 GitHub Statistics
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=eneserbap&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -48,7 +46,7 @@
 
 ---
 
-### 🤝 Bana Ulaşın
+### 🤝 Contact Me
 
 <p align="center">
   <a href="https://enes.monolithstudios.dev">🌐 Website</a> •
